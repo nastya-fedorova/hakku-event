@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//hakku.ai//events//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-02-delo-v-lyudyah@hakku.ai
+DTSTAMP:20261023T000000Z
+DTSTART:20261102T160000Z
+DTEND:20261102T170000Z
+SUMMARY:Дело в людях: мастермайнд о том, как оценивать и развивать метанавыки у подчиненных и команд
+DESCRIPTION:Мастермайнд. Спикеры: Мария Лопухина, Николай Писаренко. Zoom: https://us06web.zoom.us/j/88980776113?pwd=zkFS4SJstxCpFWIg6jXC0ERxu7Lg7B.1
+LOCATION:Zoom
+URL:https://us06web.zoom.us/j/88980776113?pwd=zkFS4SJstxCpFWIg6jXC0ERxu7Lg7B.1
+END:VEVENT
+END:VCALENDAR
